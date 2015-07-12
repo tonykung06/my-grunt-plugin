@@ -1,6 +1,6 @@
 # grunt-my-grunt-plugin
 
-> The best Grunt plugin ever.(https://www.npmjs.com/package/grunt-my-grunt-plugin)
+> [The best Grunt plugin ever.](https://www.npmjs.com/package/grunt-my-grunt-plugin)
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
